@@ -1,5 +1,7 @@
 # Hi there, I'm Anuj Mhatre! 👋
 
+[LinkedIn](https://linkedin.com/in/anuj05) | [Email](mailto:mhatreanuj05@gmail.com) | [GitHub](https://github.com/AnujM05)
+
 **Data Analyst | Python | Advanced SQL | Power BI**
 
 I am a Data Analyst based in Mumbai and a B.Sc. Data Science graduate from HSNC University. I specialize in turning messy, real-world data into fault-tolerant pipelines, automated financial models, and actionable executive dashboards. 
