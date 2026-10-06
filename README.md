@@ -21,9 +21,9 @@ I am a Data Analyst based in Mumbai and a B.Sc. Data Science graduate from HSNC 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Automated B2B Financial Reconciliation Pipeline]([link-to-repo](https://github.com/AnujM05/B2B_Financial_Reconciliation_Pipeline))** | An ETL pipeline that replaces manual accounting by using fuzzy string matching (85% confidence) to automatically recover ₹24.3 Lakhs in unmapped revenue from a corrupted ₹27.32 Lakh corporate ledger. | `Python` `PostgreSQL` `RapidFuzz` `Power BI` |
-| **[Algorithmic Risk & Volatility Alert Engine]([(link-to-repo)](https://github.com/AnujM05/algorithmic_risk_alert_engine))** | An event-driven volatility tracker that dynamically calculates 20-day rolling Bollinger Bands and dispatches sub-second (<500ms) markdown-formatted JSON alerts to Slack during market anomalies. | `Python` `Pandas` `Slack API` |
-| **[Fault-Tolerant Market Data ETL]([link-to-repo](https://github.com/AnujM05/Resilient_Financial_API_Pipeline))** | A daily API extraction pipeline engineered with decorator-driven exponential backoff retry logic and idempotent `ON CONFLICT DO UPDATE` constraints to guarantee 99.9% data reliability and zero duplicate batch records. | `Python` `Alpha Vantage` `SQLAlchemy` |
+| **[Automated B2B Financial Reconciliation Pipeline](https://github.com/AnujM05/B2B_Financial_Reconciliation_Pipeline)** | An ETL pipeline that replaces manual accounting by using fuzzy string matching (85% confidence) to automatically recover ₹24.3 Lakhs in unmapped revenue from a corrupted ₹27.32 Lakh corporate ledger. | `Python` `PostgreSQL` `RapidFuzz` `Power BI` |
+| **[Algorithmic Risk & Volatility Alert Engine](https://github.com/AnujM05/algorithmic_risk_alert_engine)** | An event-driven volatility tracker that dynamically calculates 20-day rolling Bollinger Bands and dispatches sub-second (<500ms) markdown-formatted JSON alerts to Slack during market anomalies. | `Python` `Pandas` `Slack API` |
+| **[Fault-Tolerant Market Data ETL](https://github.com/AnujM05/Resilient_Financial_API_Pipeline)** | A daily API extraction pipeline engineered with decorator-driven exponential backoff retry logic and idempotent `ON CONFLICT DO UPDATE` constraints to guarantee 99.9% data reliability and zero duplicate batch records. | `Python` `Alpha Vantage` `SQLAlchemy` |
 
 ---
 
